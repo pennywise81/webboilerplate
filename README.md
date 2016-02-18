@@ -1,6 +1,16 @@
 # webboilerplate
 Let's start something new
 
+## Download
+```
+git clone git@github.com:pennywise81/webboilerplate.git PROJECTNAME
+```
+
+## Download without version control
+```
+git clone --depth=1 git@github.com:pennywise81/webboilerplate.git PROJECTNAME && rm -rf PROJECTNAME/.git
+```
+
 ## NPM tasks
 
 ### Install
