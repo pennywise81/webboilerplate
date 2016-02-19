@@ -29,3 +29,8 @@ block content
       a.btn.btn-default(href='/')
         span.glyphicon.glyphicon-home
         |  Homepage
+      br
+      br
+      p loaded JS-Files:<br>
+        - each file in javascriptOutFiles
+          a(href="#{file}", target="_blank") #{file} <br>
