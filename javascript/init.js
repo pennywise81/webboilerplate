@@ -2,6 +2,6 @@
 
 ;(function() {
   document.addEventListener("DOMContentLoaded", function(event) {
-    window.console && console.log("DOMContentLoaded" );
+    window.console && console.log("DOMContentLoaded");
   });
 })();
