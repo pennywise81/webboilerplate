@@ -65,4 +65,6 @@ grunt build
 ```
 
 ## To do
+- [ ] enable Grunt staging
+- [ ] update package.json
 - [ ] update README
