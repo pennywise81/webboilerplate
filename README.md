@@ -66,5 +66,6 @@ grunt build
 
 ## To do
 - [ ] enable Grunt staging
+- [ ] enable livereload "on-the-fly" in dev mode
 - [ ] update package.json
 - [ ] update README
